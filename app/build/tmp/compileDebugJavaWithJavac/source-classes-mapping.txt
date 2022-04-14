@@ -1,0 +1,10 @@
+com/example/assignment_3/BuildConfig.java
+ com.example.assignment_3.BuildConfig
+com/example/assignment_3/databinding/NotificationBinding.java
+ com.example.assignment_3.databinding.NotificationBinding
+com/example/assignment_3/databinding/ActivityAddBookBinding.java
+ com.example.assignment_3.databinding.ActivityAddBookBinding
+com/example/assignment_3/databinding/BookItemBinding.java
+ com.example.assignment_3.databinding.BookItemBinding
+com/example/assignment_3/databinding/ActivityMainBinding.java
+ com.example.assignment_3.databinding.ActivityMainBinding

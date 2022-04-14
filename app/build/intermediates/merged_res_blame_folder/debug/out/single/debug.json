@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable_book_image.jpeg.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/drawable/book_image.jpeg"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/layout_book_item.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/layout/book_item.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable_ic_filled_start_rate.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/drawable/ic_filled_start_rate.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable_button_edit.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/drawable/button_edit.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable_customratingstars.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/drawable/customratingstars.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable_empty.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/drawable/empty.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/layout_activity_add_book.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/layout/activity_add_book.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable_ic_add.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable_edit_text.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/drawable/edit_text.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable_button_add.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/drawable/button_add.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/layout_notification.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/layout/notification.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable_filled.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/drawable/filled.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable_ic_star_rate.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/drawable/ic_star_rate.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    }
+]

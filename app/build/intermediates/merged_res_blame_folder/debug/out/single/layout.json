@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/book_item.xml",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/layout/book_item.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/notification.xml",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/layout/notification.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_add_book.xml",
+        "source": "/home/anas/projects/AndroidStudioProjects/Cloud Computing Projects/Assignment_3/app/src/main/res/layout/activity_add_book.xml"
+    }
+]
